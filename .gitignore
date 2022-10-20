@@ -1,2 +1,2 @@
-error.log
-imp/
+*.log
+/imp/
