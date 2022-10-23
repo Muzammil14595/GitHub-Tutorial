@@ -1,4 +1,1 @@
-This is a sample text.
-First modify.
-Second modify
-remove
+first
